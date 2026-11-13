@@ -26,7 +26,7 @@ Rules applied to every strategy:
 2 of 83 passed. Both are provisional:
 
 - Neither came from the search. Both were rules that existed before it began (the 09:30 opening range break and a published three-down-days swing effect).
-- The 62 designed intraday strategies produced 116 t-scores with mean +0.06 and standard deviation 0.96. Pure noise would give 0.00 and 1.00. None of the 116 went above +3.
+- Of the 62 intraday strategies, 58 had at least 40 trades in both halves. Those 58 produced 116 t-scores with mean +0.06 and standard deviation 0.96. Pure noise would give 0.00 and 1.00. None of the 116 went above +3.
 - A later test of the ORB as I trade it (1.0x range stop, 1.5R target, 0.07% to 0.65% range filter) on 16.2 years of NQ 5-minute bars, 2,862 trades, came out at profit factor 0.99 after costs, permutation p 0.398. Different rules and a longer sample than the first result.
 - The held-out half has been checked 62 times, so it is no longer a clean test set.
 - The swing result is QQQ, not futures, and it returned +109% over a period where buy and hold returned +552%.
