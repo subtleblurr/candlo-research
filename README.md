@@ -53,4 +53,4 @@ Standard library only. For n independent worthless ideas and a two-sided 5% cuto
 - https://candlohq.com/essays/three-down-days
 - https://candlohq.com/essays/backtest-checklist
 
-Text is CC BY 4.0 (see LICENSE). The script is MIT.
+Text is CC BY 4.0 (see LICENSE). The script is MIT (examples/LICENSE-MIT).
