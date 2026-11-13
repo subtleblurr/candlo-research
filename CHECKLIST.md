@@ -37,7 +37,7 @@ and scores well on the other, that is not half a result. Both halves or nothing.
 
 ## 5. Count how often you looked at the test half
 
-Every look uses it up. My held-out half has now been queried 62 times, so it is no
+Every look uses it up. My held-out half has now been queried at least 62 times, so it is no
 longer a clean test. Anything that scores well on it from here has to be discounted.
 
 ## 6. Check the time of day
